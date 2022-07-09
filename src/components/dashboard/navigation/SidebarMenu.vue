@@ -3,11 +3,13 @@
     <li class="group-item" v-for="(group, key) in NavigationLinks" :key="key">
       <small>{{ key }}</small>
       <ul class="links-list">
-        <router-link class="link-item" v-for="(link, j) in group" :key="j" :to="link.path">
-          <f-icon class="link-item-icon" :icon="link.icon" height="16"></f-icon>
-          <span class="link-item-text" :class="{ hidden: isMiniSized }">
-            {{ link.title }}
-          </span>
+        <router-link v-for="(link, j) in group" :key="j" :to="link.path" v-slot="{ isActive }">
+          <li class="link-item" :class="{ active: isActive }">
+            <f-icon class="link-item-icon" :icon="link.icon" height="16"></f-icon>
+            <span class="link-item-text" :class="{ hidden: isMiniSized }">
+              {{ link.title }}
+            </span>
+          </li>
         </router-link>
       </ul>
     </li>
@@ -78,11 +80,11 @@ ul {
           color: $g4;
         }
 
-        &:hover:not(.router-link-active) {
+        &:hover:not(.active) {
           transform: translateX(10px);
         }
 
-        &.router-link-active {
+        &.active {
           color: $primary;
 
           svg {

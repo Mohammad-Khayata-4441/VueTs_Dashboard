@@ -1,8 +1,10 @@
 // import type { RouterMeta } from '@/models/interfaces/RouterMeta'
-import { createRouter, createWebHistory, type RouteRecordRaw } from 'vue-router'
+import { createRouter, createWebHistory, RouterView, type RouteRecordRaw } from 'vue-router'
 import { Layouts } from '@/models/enums/Layouts'
 import { Dashboard_Routes } from './childs/dashboard'
 import { beforeEach } from './routerGaurds'
+import { h } from 'vue'
+
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -18,7 +20,7 @@ const router = createRouter({
       path: '/dashboard',
       name: 'Dashboard',
       children: Dashboard_Routes,
-      component: () => import('@/views/dashboard/index.vue'),
+      component: { render: () => h(RouterView) },
       meta: {
         layout: Layouts.Dashboard
       }

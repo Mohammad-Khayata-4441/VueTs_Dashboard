@@ -2,10 +2,10 @@ import type { NavigationItem } from "@/models/types/base";
 
 const NavLinks: { [key: string]: Array<NavigationItem> } = {
     Main: [
-        { title: "Home", path: "/", icon: "home", role: "" },
+        { title: "Home", path: "/dashboard/home", icon: "home", role: "" },
         {
             title: "Components",
-            path: "/Components",
+            path: "/dashboard/components",
             icon: "rectangle-list",
             role: "",
         },
