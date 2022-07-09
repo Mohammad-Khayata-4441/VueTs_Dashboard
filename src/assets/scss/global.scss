@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@200&family=Poppins&display=swap');
+ 
+body,html{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Kufi Arabic', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+a,.router-link{
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+h1,h2,h3,h4,h5,h6 ,p{
+margin: 0;
+}
