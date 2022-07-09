@@ -1,26 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-.svg-primary {
-  fill: theme('colors.primary');
-}
-
-.svg-blue-dark {
-  fill: theme('colors.blue-dark');
-}
-
-.svg-blue-light {
-  fill: theme('colors.blue-light');
-}
-
-.svg-blue-light {
-  fill: theme('colors.light');
-}
-
-.svg-white {
-  fill: theme('colors.white');
-}
-
-
-/* Public Classes */
