@@ -17,7 +17,6 @@
 </template>
 
 <script lang="ts" setup>
-import { defineProps } from "vue";
 import { NavLinks } from "@/router/navigation";
 import { ref } from "vue";
 let NavigationLinks = ref(NavLinks);
