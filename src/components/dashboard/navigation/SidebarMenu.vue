@@ -3,7 +3,12 @@
     <li class="group-item" v-for="(group, key) in NavigationLinks" :key="key">
       <small>{{ key }}</small>
       <ul class="links-list">
-        <router-link v-for="(link, j) in group" :key="j" :to="link.path" v-slot="{ isActive }">
+        <router-link
+          v-for="(link, j) in group"
+          :key="j"
+          :to="link.path"
+          v-slot="{ isActive }"
+        >
           <li class="link-item" :class="{ active: isActive }">
             <f-icon class="link-item-icon" :icon="link.icon" height="16"></f-icon>
             <span class="link-item-text" :class="{ hidden: isMiniSized }">
@@ -21,9 +26,8 @@ import { NavLinks } from "@/router/navigation";
 import { ref } from "vue";
 let NavigationLinks = ref(NavLinks);
 defineProps({
-  isMiniSized: Boolean
-})
-
+  isMiniSized: Boolean,
+});
 </script>
 
 <style scoped lang="scss">
@@ -61,7 +65,7 @@ ul {
         gap: 1.5rem;
         color: $g4;
         position: relative;
-        transition: .3s;
+        transition: 0.3s;
 
         &-text {
           display: block;
@@ -83,6 +87,20 @@ ul {
           transform: translateX(10px);
         }
 
+        &::before {
+          content: "";
+          left: -16px;
+          position: absolute;
+          width: 8px;
+          height: 45px;
+          border-radius: 0 0.5rem 0.5rem 0;
+          background-color: $primary;
+          transition: 0.5s;
+          opacity: 0;
+          visibility: hidden;
+          transition: translateX(-50px);
+        }
+
         &.active {
           color: $primary;
 
@@ -98,6 +116,9 @@ ul {
             height: 45px;
             border-radius: 0 0.5rem 0.5rem 0;
             background-color: $primary;
+            transition: 0.5s;
+            opacity: 1;
+            visibility: visible;
           }
         }
       }

@@ -5,7 +5,7 @@
 }
 
 .shadow-1 {
-  box-shadow: 0 0 8px -5px $dark;
+  box-shadow: theme("boxShadow.DEFAULT");
 }
 
 .flex {
@@ -22,7 +22,6 @@
 
 .dark-theme {
   background-color: $dark !important;
-
   p,
   span,
   h1,
@@ -41,5 +40,5 @@
   background-color: #fff !important;
 }
 .shadow-2 {
-  box-shadow: 0 0 10px -5px #1f1f1f;
+  box-shadow: theme("boxShadow.DEFAULT");
 }

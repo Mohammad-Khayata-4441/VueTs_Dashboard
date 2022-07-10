@@ -3,6 +3,8 @@
     <div class="col">
       <a-card title="Form Example" class="tw-shadow" :bordered="false">
         <a-date-picker v-model:value="value1" />
+        <a-slider v-model:value="value2" range />
+        {{ value2 }}
       </a-card>
     </div>
     <div class="col">
@@ -22,4 +24,7 @@
 import { ref } from "vue";
 
 const value1 = ref("");
+const value2 = ref<[number, number]>([20, 50]);
+const value3 = ref("");
+const value4 = ref("");
 </script>
