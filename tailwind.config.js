@@ -4,7 +4,11 @@ module.exports = {
   prefix: "tw-",
   content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        primary: "#7A0BC0",
+      },
+    },
   },
   plugins: [],
 };

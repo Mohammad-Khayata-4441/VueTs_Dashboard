@@ -14,12 +14,10 @@
 
       <!-- Layout Bread Crump -->
       <div class="dashboard-header">
-        <slot name="breadCrump">
+        <slot name="breadCrumb">
 
-          <div class="breadCrump">
-            <small>
-              / Dashboard / Home
-            </small>
+          <div class="breadCrumb">
+            <DashBreadCrumb></DashBreadCrumb>
           </div>
 
         </slot>
@@ -44,10 +42,12 @@
 <script>
 import DashNavbar from '@/components/dashboard/navigation/DashNavbar.vue'
 import DashSidebar from '@/components/dashboard/navigation/DashSidebar.vue'
+import DashBreadCrumb from '@/components/dashboard/navigation/DashBreadCrumb.vue'
 export default {
   components: {
     DashNavbar,
-    DashSidebar
+    DashSidebar,
+    DashBreadCrumb
   },
   data() {
     return {

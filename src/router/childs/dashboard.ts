@@ -11,7 +11,13 @@ export const Dashboard_Routes: Array<RouteRecordRaw> = [
         children: [
             {
                 path: '',
-                component: () => import('@/views/dashboard/components/index.vue')
+                component: () => import('@/views/dashboard/components/index.vue'),
+                meta: {
+                    breadCrumb: [
+                        { path: '/dashboard', icon: 'someIcon', text: 'Dashboard' },
+                        { path: '/dashboard/components', icon: 'someIcon', text: 'Components' }
+                    ]
+                }
             },
             {
                 path: ':id',

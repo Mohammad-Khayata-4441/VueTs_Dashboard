@@ -9,8 +9,8 @@ const NavLinks: { [key: string]: Array<NavigationItem> } = {
             icon: "rectangle-list",
             role: "",
         },
-        { title: "Positions", path: "/Positions", icon: "crosshairs", role: "" },
-        { title: "Test", path: "/test", icon: "flask", role: "" },
+        { title: "Positions", path: "/", icon: "crosshairs", role: "" },
+        { title: "Test", path: "/", icon: "flask", role: "" },
     ],
 
 }
