@@ -60,7 +60,7 @@ ul {
         display: flex;
         align-items: center;
         gap: 1.5rem;
-        color: $g4;
+        color: $gray-400;
         position: relative;
         transition: .3s;
 
@@ -77,7 +77,7 @@ ul {
         }
 
         svg {
-          color: $g4;
+          color: $gray-400;
         }
 
         &:hover:not(.active) {

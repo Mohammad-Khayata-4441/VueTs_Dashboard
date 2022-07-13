@@ -58,7 +58,7 @@ const isMiniSized = ref(false);
   &-footer {
     button {
       padding: 0.5rem 1rem;
-      color: $g4;
+      color: $gray-400;
 
       svg {
         margin-right: 15px;
