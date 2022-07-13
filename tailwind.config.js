@@ -1,4 +1,4 @@
-/*@type {import('tailwindcss').Config} */
+// import variables from "./src/assets/scss/variables.scss";
 // eslint-disable-next-line no-undef
 module.exports = {
   prefix: "tw-",
@@ -6,7 +6,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#7A0BC0",
+        primary: "#1976d2",
+        "primary-dark": "#9C80EA",
+        "primary-light": "#63a4ff",
       },
     },
   },

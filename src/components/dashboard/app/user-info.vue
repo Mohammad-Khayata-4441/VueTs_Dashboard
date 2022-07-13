@@ -1,6 +1,6 @@
 <template>
   <div class="user-info">
-    <img src="@/assets/images/user.jpg">
+    <img src="@/assets/images/user.jpg" />
     <div class="user-info-text">
       <h6 class="user-name">User Name</h6>
       <h6 class="user-position">User Position</h6>
@@ -13,22 +13,26 @@ export default {};
 </script>
 
 <style lang="scss" scoped>
-@import '@/assets/scss/variables.scss';
+@import "@/assets/scss/variables.scss";
+
 .user-info {
   display: flex;
   align-items: center;
   gap: 10px;
-  img{
+
+  img {
     height: 50px;
     width: 50px;
     border-radius: 50%;
   }
+
   .user-name {
     font-size: 16px;
   }
+
   .user-position {
     font-size: 12px;
-    color:$g4 ;
+    color: $gray-400;
   }
 }
 </style>

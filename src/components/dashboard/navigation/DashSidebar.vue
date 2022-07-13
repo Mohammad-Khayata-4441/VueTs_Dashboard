@@ -13,7 +13,7 @@
 <script setup lang="ts">
 import SidebarMenu from "./SidebarMenu.vue";
 import AppInfo from "../app/app-info.vue";
-import { ref, computed } from 'vue'
+import { ref, computed } from "vue";
 const isMiniSized = ref(false);
 </script>
 
@@ -30,7 +30,7 @@ const isMiniSized = ref(false);
 
   &-header {
     align-content: stretch;
-    padding: 0.5rem 1rem;
+    padding: 2rem 1rem;
     display: flex;
     align-items: center;
   }
@@ -58,7 +58,7 @@ const isMiniSized = ref(false);
   &-footer {
     button {
       padding: 0.5rem 1rem;
-      color: $g4;
+      color: $gray-400;
 
       svg {
         margin-right: 15px;

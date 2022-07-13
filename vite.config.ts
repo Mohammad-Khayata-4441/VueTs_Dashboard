@@ -1,4 +1,4 @@
-; import { fileURLToPath, URL } from 'url';
+import { fileURLToPath, URL } from 'url';
 import vitePluginImp from 'vite-plugin-imp';
 import tailwindConfig from './tailwind.config.js';
 import resolveConfig from 'tailwindcss/resolveConfig';
@@ -25,6 +25,9 @@ export default defineConfig({
     }
   },
   css: {
+    modules: {
+      scopeBehaviour: 'global',
+    },
     preprocessorOptions: {
       less: {
         javascriptEnabled: true,

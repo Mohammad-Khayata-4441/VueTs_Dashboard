@@ -1,6 +1,6 @@
 <template>
   <button @click="setTheme">
-    <ui-custom-icon name="brightness" size="27"></ui-custom-icon>
+    <!-- <ui-custom-icon name="brightness" size="27"></ui-custom-icon> -->
   </button>
 </template>
 

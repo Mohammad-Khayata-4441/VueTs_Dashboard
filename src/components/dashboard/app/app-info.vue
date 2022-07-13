@@ -1,12 +1,11 @@
 <template>
   <div class="app-info">
-    <img class="app-info-img" src="@/assets/images/cs.png" />
+    <img class="app-info-img" src="@/assets/images/logo.svg" />
     <div class="app-info-text">Starter Project</div>
   </div>
 </template>
 
-<script>
-</script>
+<script></script>
 
 <style lang="scss" scoped>
 .app-info {
@@ -14,9 +13,11 @@
   align-items: center;
   gap: 10px;
   font-weight: bold;
+
   img {
-    height: 65px;
+    height: 60px;
   }
+
   &-text {
   }
 }
