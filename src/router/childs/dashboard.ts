@@ -27,6 +27,7 @@ export const Dashboard_Routes: Array<RouteRecordRaw> = [
     },
     {
         path: 'home',
+        name: 'Home Page',
         component: () => import('@/views/dashboard/home/index.vue')
     }
 ]

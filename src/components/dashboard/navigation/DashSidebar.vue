@@ -1,5 +1,5 @@
 <template>
-  <div class="sidebar">
+  <div class="sidebar tw-shadow">
     <div class="sidebar-header">
       <AppInfo></AppInfo>
     </div>
@@ -26,7 +26,6 @@ const isMiniSized = ref(false);
   display: flex;
   flex-direction: column;
   background-color: $light;
-  box-shadow: 0 0 10px -5px $dark;
 
   &-header {
     align-content: stretch;
@@ -67,7 +66,8 @@ const isMiniSized = ref(false);
   }
 }
 
-.sidebar-miniSized {}
+.sidebar-miniSized {
+}
 
 .dark-theme {
   .sidebar {

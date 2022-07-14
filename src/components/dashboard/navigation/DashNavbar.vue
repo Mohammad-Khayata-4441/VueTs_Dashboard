@@ -1,6 +1,6 @@
 <template>
-  <div class="dashboard-layout-navbar">
-    <div class="content shadow-1">
+  <div class="dashboard-layout-navbar tw-shadow">
+    <div class="content">
       <!-- User Info And Avatar -->
       <div class="left">
         <user-info></user-info>
@@ -21,10 +21,8 @@ import UserInfo from "@/components/dashboard/app/user-info.vue";
 @import "@/assets/scss/variables";
 
 .dashboard-layout-navbar {
-  padding: 1rem 1.2rem;
-
   .content {
-    padding: 0.5rem 1rem;
+    padding: 1rem;
     background-color: transparentize($color: $light, $amount: 0.1);
     backdrop-filter: blur(5px);
     display: flex;

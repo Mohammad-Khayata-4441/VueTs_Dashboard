@@ -6,7 +6,6 @@
 
     <div class="dashboard-wrapper">
       <!-- Layout Navbar -->
-
       <div class="dashboard-navbar" ref="navbar">
         <DashNavbar></DashNavbar>
       </div>
@@ -14,40 +13,26 @@
 
       <!-- Layout Bread Crump -->
       <div class="dashboard-header">
-        <slot name="breadCrumb">
-
-          <div class="breadCrumb">
-            <DashBreadCrumb></DashBreadCrumb>
-          </div>
-
-        </slot>
-        <slot name="actions">
-
-        </slot>
+        <DashHeader></DashHeader>
       </div>
       <!--End Layout Bread Crump -->
-
-
 
       <main class="dashboard-body" :style="`margin-top:${navHeight}px`">
         <slot></slot>
       </main>
-
-
-
     </div>
   </div>
 </template>
 
 <script>
-import DashNavbar from '@/components/dashboard/navigation/DashNavbar.vue'
-import DashSidebar from '@/components/dashboard/navigation/DashSidebar.vue'
-import DashBreadCrumb from '@/components/dashboard/navigation/DashBreadCrumb.vue'
+import DashNavbar from "@/components/dashboard/navigation/DashNavbar.vue";
+import DashSidebar from "@/components/dashboard/navigation/DashSidebar.vue";
+import DashHeader from "@/components/dashboard/navigation/DashHeader.vue";
 export default {
   components: {
     DashNavbar,
     DashSidebar,
-    DashBreadCrumb
+    DashHeader,
   },
   data() {
     return {
@@ -55,14 +40,12 @@ export default {
       sideWidth: 0,
     };
   },
-
-
 };
 </script>
 
 <style lang="scss" scoped>
 @import "@/assets/scss/variables.scss";
-$nav-height: 98px;
+$nav-height: 82px;
 $sidebar-width: 280px;
 
 .dashboard-layout {
@@ -78,9 +61,8 @@ $sidebar-width: 280px;
     position: relative;
 
     .dashboard-header {
-      padding: 1rem 1rem;
-      display: grid;
-      grid-template-columns: 1fr 1fr;
+      position: sticky;
+      z-index: -1;
     }
 
     .dashboard-body {
@@ -96,11 +78,11 @@ $sidebar-width: 280px;
     }
   }
 
-
   .dashboard-sidebar {
     width: $sidebar-width;
     position: fixed;
     height: 100vh;
+    z-index: 100;
   }
 }
 </style>

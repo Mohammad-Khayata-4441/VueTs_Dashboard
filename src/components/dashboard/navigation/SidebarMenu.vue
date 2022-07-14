@@ -1,9 +1,14 @@
 <template>
   <ul class="groups-list">
     <li class="group-item" v-for="(group, key) in NavigationLinks" :key="key">
-      <small>{{ key }}</small>
+      <span class="group-name">{{ key }}</span>
       <ul class="links-list">
-        <router-link v-for="(link, j) in group" :key="j" :to="link.path" v-slot="{ isActive }">
+        <router-link
+          v-for="(link, j) in group"
+          :key="j"
+          :to="link.path"
+          v-slot="{ isActive }"
+        >
           <li class="link-item" :class="{ active: isActive }">
             <f-icon class="link-item-icon" :icon="link.icon" height="16"></f-icon>
             <span class="link-item-text" :class="{ hidden: isMiniSized }">
@@ -42,14 +47,15 @@ ul {
 
   // Each Navlinks Group
   .group-item {
-    small {
-      font-size: 10px;
+    .group-name {
+      font-size: 12px;
+      font-weight: 500;
     }
 
     // Navlinks List
     .links-list {
       .link-item {
-        font-size: 14px;
+        font-size: 16px;
         border-radius: 1rem;
         margin: 10px 0;
         padding: 1rem 0.6rem;
@@ -58,9 +64,10 @@ ul {
         display: flex;
         align-items: center;
         gap: 1.5rem;
-        color: $gray-400;
+        color: $gray-500;
         position: relative;
         transition: 0.3s;
+        font-weight: 500;
 
         &-text {
           display: block;
@@ -75,7 +82,7 @@ ul {
         }
 
         svg {
-          color: $gray-400;
+          color: $gray-500;
         }
 
         &:hover:not(.active) {
