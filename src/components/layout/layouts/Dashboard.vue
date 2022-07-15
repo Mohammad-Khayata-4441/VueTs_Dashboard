@@ -57,23 +57,17 @@ $sidebar-width: 280px;
   .dashboard-wrapper {
     width: calc(100vw - $sidebar-width);
     margin-left: $sidebar-width;
-    padding-top: $nav-height;
     position: relative;
-
-    .dashboard-header {
-      position: sticky;
-      z-index: -1;
-    }
 
     .dashboard-body {
       padding: 0 1rem;
     }
 
     .dashboard-navbar {
-      position: fixed;
+      position: relative;
+      width: 100%;
       min-height: $nav-height;
       top: 0;
-      width: calc(100% - $sidebar-width);
       right: 0px;
     }
   }
