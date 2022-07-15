@@ -2,7 +2,7 @@
   <div>
     <h2 class="my-2">Dash Home</h2>
 
-    <section class="bg-white dark:bg-gray-900">
+    <section class="bg-white dark:bg-primary-dark">
       <div class="container px-6 py-12 mx-auto">
         <div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
           <div>
@@ -112,7 +112,7 @@
           alt="avatar"
         />
 
-        <div class="flex items-center px-6 py-3 bg-gray-900">
+        <div class="flex items-center px-6 py-3 bg-primary-dark">
           <svg
             class="w-6 h-6 text-white fill-current"
             viewBox="0 0 24 24"
@@ -199,7 +199,7 @@
       </div>
     </div>
 
-    <section class="bg-white dark:bg-gray-900">
+    <section class="bg-white dark:bg-primary-dark">
       <div class="container px-6 py-10 mx-auto">
         <h1
           class="text-3xl font-semibold text-center text-gray-800 capitalize lg:text-4xl dark:text-white"
