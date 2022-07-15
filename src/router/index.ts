@@ -25,7 +25,10 @@ const router = createRouter({
     {
       path: '/login',
       name: 'login',
-      component: () => import('@/views/authentication/Login.vue')
+      component: () => import('@/views/authentication/Login.vue'),
+      meta: {
+        layout: Layouts.FullScreen
+      }
     }
 
   ] as RouteRecordRaw[],

@@ -2,7 +2,7 @@
   <div class="user-info">
     <img src="@/assets/images/user.jpg" />
     <div class="user-info-text">
-      <h6 class="user-name tw-my-0">User Name</h6>
+      <h6 class="user-name  my-0">User Name</h6>
       <h6 class="user-position">User Position</h6>
     </div>
   </div>

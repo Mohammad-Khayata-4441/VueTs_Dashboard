@@ -1,7 +1,8 @@
 // import variables from "./src/assets/scss/variables.scss";
 // eslint-disable-next-line no-undef
 module.exports = {
-  prefix: "tw-",
+  darkMode: "class",
+
   content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   theme: {
     extend: {

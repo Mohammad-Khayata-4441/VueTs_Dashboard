@@ -1,7 +1,7 @@
 <template>
   <div class="app-info">
     <img class="app-info-img" src="@/assets/images/logo.svg" />
-    <div class="app-info-text tw-text-base tw-text-gray-700">Starter Project</div>
+    <div class="app-info-text  text-base  text-gray-700">Starter Project</div>
   </div>
 </template>
 

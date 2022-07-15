@@ -1,194 +1,564 @@
 <template>
   <div>
-    <h2>Dash Home</h2>
-    <p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, nihil beatae aperiam
-      blanditiis aspernatur adipisci consequatur incidunt cumque nam doloremque id
-      laboriosam maiores quibusdam in dicta quisquam corporis necessitatibus ullam facere
-      excepturi! Consequatur doloremque itaque perspiciatis eos, quis autem, id odio
-      aliquam atque obcaecati nisi in dolorem fugit repellat aperiam nihil ex. Repudiandae
-      fugiat sint aperiam iusto ea reprehenderit voluptates velit quas aspernatur beatae
-      quidem, in excepturi quia, delectus asperiores saepe optio repellendus. Eius
-      deserunt est dignissimos eveniet! Aliquam totam tempora soluta porro vitae
-      voluptatem omnis perferendis molestiae est, nulla reiciendis aut ipsam dolores, modi
-      mollitia, voluptatibus eligendi doloremque facilis repellat veritatis labore placeat
-      iusto et. Aliquam incidunt eum suscipit fugiat quos? Ipsum eligendi repellendus
-      natus harum alias explicabo ab voluptas perspiciatis dolorem quasi, cupiditate
-      corrupti sapiente, soluta illo consequatur itaque voluptatibus aut assumenda
-      temporibus quam laborum facere. Aperiam exercitationem sunt cum aliquam rem saepe
-      assumenda reiciendis! Omnis atque nobis iure sit dignissimos hic amet, repellat,
-      maiores eum cum ad quos fugiat suscipit alias rem enim. Quos, maiores! Molestiae
-      tempora eum quasi doloribus quod inventore eius quae nulla! Ea aperiam, rem fuga
-      voluptates veritatis aut possimus officiis repudiandae! Minus earum voluptatem
-      repellendus nostrum incidunt deserunt maiores sint eveniet ipsam aut quam fuga
-      aspernatur officia quae ipsa mollitia qui beatae unde, delectus facilis! Qui nemo,
-      asperiores harum sunt natus quibusdam amet culpa aliquam quidem commodi at ad
-      blanditiis. Perspiciatis fugit id vitae quam repellendus libero quis officia
-      cupiditate. Id nostrum quidem, eligendi vel mollitia quos inventore commodi sit sunt
-      doloribus, laboriosam odio incidunt. Ipsam dolorem quibusdam suscipit doloremque
-      quam atque, placeat, totam sapiente inventore veritatis rerum laborum nam quasi
-      asperiores aut odit quod! Architecto hic accusamus fugit repudiandae eaque,
-      laboriosam itaque deserunt numquam, modi fuga alias adipisci. Illo consequuntur
-      molestiae quo dolores veritatis excepturi voluptatibus quae inventore nulla qui
-      rerum aspernatur, molestias, perspiciatis voluptates obcaecati. Placeat assumenda
-      modi perferendis ipsam veritatis, corporis in sequi, quos natus quidem veniam
-      voluptate voluptatibus enim nisi exercitationem neque maiores iure blanditiis
-      accusamus id commodi provident sapiente. Provident hic totam ea officia, doloribus
-      quae omnis. Ratione quas tempora, perferendis libero voluptatibus omnis unde
-      provident harum maxime eius hic iste, magni aspernatur fugit recusandae assumenda!
-      Maiores fuga sapiente magnam tempora laborum atque rerum quis libero temporibus
-      aliquid, sed, iste saepe earum vero nemo velit sit dolor. Fugit adipisci vero itaque
-      nesciunt culpa perferendis a, quidem dolor dolorum illo voluptas qui earum dolores
-      provident est architecto aliquid veniam, error ab explicabo in? Similique excepturi
-      assumenda id officia dolores mollitia maxime expedita animi tenetur amet fuga
-      inventore voluptate, reprehenderit totam. Ullam, voluptate porro? Dolore repellat
-      consectetur harum aut eligendi velit delectus illum atque vel corrupti iusto, sit
-      vero fugit provident minus obcaecati deleniti ut dolor ratione sed at explicabo odit
-      magni alias? Natus vero consectetur quasi ipsam ratione molestiae. Ab eveniet
-      delectus commodi inventore dolore facere asperiores ad! Nisi fuga voluptate
-      necessitatibus veritatis ipsa totam commodi voluptatibus quae hic ducimus qui
-      perferendis asperiores exercitationem error at, sit dicta illo ipsum numquam alias
-      ut dolore laborum accusantium. Maxime perspiciatis inventore corporis illum aliquid,
-      quibusdam, illo minus voluptates et iure odio commodi. Unde numquam distinctio est
-      odit. Quo ipsum, recusandae veritatis tenetur omnis quam perferendis vero, cum
-      inventore minus cumque delectus velit eos voluptatum, repellendus pariatur eius.
-      Ipsam doloribus facilis cumque rerum quo deleniti, illum similique ducimus ea,
-      laudantium earum iure totam officiis saepe, suscipit quisquam accusamus porro?
-      Aperiam vero nobis porro similique sit unde consectetur perferendis, eveniet error,
-      dignissimos, officia quae eum? Molestias exercitationem dicta atque inventore rerum
-      reprehenderit nam minima unde quam, mollitia maiores nisi quasi odit quo, laboriosam
-      obcaecati laborum? Expedita saepe nobis veritatis deleniti laborum voluptatem
-      molestiae eligendi dolor, suscipit itaque sit, repellendus inventore ducimus tempore
-      nemo. Odit, velit dolorem dolor quam laudantium, nesciunt ipsa maiores, cupiditate
-      consequuntur recusandae modi eveniet culpa repudiandae laboriosam vel possimus
-      quaerat eum voluptate saepe facere quia deserunt tempore harum corporis? Tenetur nam
-      nostrum recusandae possimus veritatis. Nihil asperiores quas, perspiciatis commodi
-      magnam quis veritatis corporis non blanditiis sequi qui voluptatem soluta hic fugit
-      odit ratione dolorem praesentium facere eum dignissimos eaque ea accusamus libero?
-      Iure unde aut cupiditate sequi aliquam quia laudantium nesciunt temporibus
-      architecto deserunt veritatis suscipit, consequatur quod vero perspiciatis
-      necessitatibus animi nisi blanditiis explicabo pariatur fuga non magnam eligendi
-      modi. Vitae magni ex iste commodi facilis perspiciatis excepturi veritatis pariatur
-      laudantium vel qui, voluptas repellendus, ducimus eius quod consequuntur velit. A
-      quis placeat, libero maiores, nam dicta quisquam nihil modi est totam rem illo dolor
-      ipsa! Ab, aliquam placeat pariatur nulla quos illo iure ullam a qui explicabo. At,
-      consequuntur sunt! Porro facere quaerat, obcaecati sit ipsam, placeat fugit
-      voluptate, minima qui neque molestias hic unde fuga quis exercitationem tempora.
-      Nobis cum officia expedita odio tempore? Ipsa temporibus porro at libero, ullam
-      impedit numquam debitis, beatae necessitatibus earum, ab eius! Illo mollitia veniam
-      voluptatem temporibus? Tenetur non, sint a adipisci suscipit eum expedita
-      consequuntur error ab, sequi alias, quos quae? Dolorem dolor officiis dicta
-      reiciendis deserunt quos odio voluptatibus earum neque incidunt. Consequatur velit,
-      maxime eligendi sit error quaerat praesentium laborum optio sapiente. Quam
-      accusantium nesciunt veniam soluta deleniti ipsum odit magnam, eum ducimus,
-      inventore distinctio quibusdam maxime doloribus eius, consequuntur tempora atque
-      totam tenetur autem. Omnis, id a quod assumenda molestias illo amet. Quas quisquam
-      doloremque quae excepturi beatae explicabo error quod est laudantium suscipit nam
-      labore esse repudiandae quidem voluptate qui debitis veniam dolor commodi deserunt,
-      aut recusandae nostrum perferendis culpa. Voluptatem eveniet neque commodi et illo
-      minima corrupti velit repudiandae asperiores? Necessitatibus placeat repudiandae rem
-      doloribus eaque iure? Voluptatibus ducimus, nisi laborum ipsa iste accusantium.
-      Natus consequatur delectus, repellat, voluptatibus ipsam accusamus possimus aliquam
-      minima velit est, voluptates cum impedit reiciendis illum officia dolore placeat
-      repudiandae sint eaque soluta sed nobis. Sapiente, iusto. Eum id fugiat dolore nulla
-      temporibus molestias esse quas totam aliquid ratione! Nulla numquam voluptate aut
-      dolores molestias pariatur quod, sapiente recusandae totam consectetur facilis iure
-      alias, nam aliquam dolorum ullam molestiae deleniti ea sint eum quibusdam omnis.
-      Modi provident maiores alias maxime vitae delectus possimus, quam nesciunt eos.
-      Voluptatibus, esse sint? Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      Quas pariatur excepturi repellendus consequatur commodi in rem id rerum expedita
-      totam doloremque tempore, explicabo accusamus quos tenetur hic voluptas! Debitis non
-      id asperiores sapiente, quod repudiandae culpa illo voluptatibus expedita architecto
-      sit, commodi similique praesentium sint porro temporibus, ut at vel! Nihil animi
-      voluptate aut dicta minima error explicabo eveniet ullam quibusdam recusandae. Omnis
-      incidunt dicta, inventore possimus a fugit nisi dolores tenetur! Voluptatum at
-      mollitia earum dolores iure doloribus vitae amet aliquid perspiciatis, nam fugiat
-      voluptates expedita nostrum, quisquam eos maxime quo, voluptate deleniti in? Minus
-      officia sequi ullam temporibus explicabo. Consequatur rem doloribus, vel sapiente
-      saepe totam praesentium dolorum consequuntur impedit laborum, esse eligendi
-      repudiandae aspernatur aliquam eos ea reprehenderit tenetur asperiores commodi quae
-      velit voluptates at magnam. Laboriosam quasi dicta labore, voluptatibus a velit
-      ducimus perspiciatis eum, quibusdam inventore distinctio harum accusantium, numquam
-      officia est et. Iste laudantium earum expedita molestias accusantium placeat minima
-      unde iure doloribus optio, blanditiis corrupti qui esse soluta tenetur? Quasi,
-      corporis inventore. Harum assumenda excepturi voluptatum, facilis at tempore dolorum
-      ex fugit. Eius ab similique porro quia architecto voluptate quos, sequi aliquam
-      dolore sunt magnam optio magni voluptatem doloribus aperiam mollitia pariatur.
-      Dignissimos sint placeat, excepturi doloremque numquam molestiae! Aliquid maiores
-      adipisci earum magnam repudiandae consequuntur est dolor! Voluptatibus dolore dolor,
-      saepe sed cupiditate ab molestiae autem dicta neque temporibus velit illo sapiente
-      est aliquid veniam odio ratione reprehenderit ullam esse aspernatur iure porro unde.
-      Reprehenderit, cupiditate maiores consectetur quod delectus ullam perspiciatis.
-      Quaerat atque enim perferendis quo et maxime ducimus voluptatibus eius a iure, nisi
-      fugit soluta obcaecati iste numquam labore tempore neque deleniti. Officia non
-      aperiam modi recusandae dignissimos necessitatibus et quibusdam dicta cumque
-      inventore totam beatae fugiat, error nisi. Possimus magnam quidem officiis quaerat
-      atque consequatur incidunt, suscipit laboriosam, eaque totam, minima necessitatibus!
-      Saepe, laudantium aliquam. Sapiente, numquam eius. Non beatae, saepe nesciunt
-      perspiciatis necessitatibus quis facilis corrupti expedita adipisci recusandae
-      molestias aspernatur debitis exercitationem ut voluptatem temporibus assumenda, nam
-      unde voluptatum autem voluptatibus reiciendis! Eos, delectus autem quia dolorum
-      aspernatur, illo alias veritatis at quaerat libero et excepturi perferendis harum
-      sit? Porro, sed est! Quo nulla quia molestiae sed atque? Aut qui mollitia neque rem
-      saepe, ea adipisci perspiciatis voluptatibus et asperiores error hic repellendus
-      enim omnis, quos cum vel voluptates corrupti praesentium architecto facilis dicta
-      tempore. Commodi corporis earum sequi laborum corrupti animi ab reprehenderit
-      delectus harum fugit? Ipsa, dolor. Minus maxime odit rerum dicta? Quis eius
-      necessitatibus repellat maiores amet illo saepe. Molestias quod, non debitis alias
-      excepturi quae magnam! Quas repellendus minus officia iure repellat accusantium
-      molestias dignissimos quasi deserunt odio, eum cum architecto nulla incidunt vel!
-      Iure, ad repellendus? Illum ratione voluptates blanditiis autem odit, nihil nulla.
-      Ullam neque labore nisi, voluptates placeat ea distinctio, dignissimos hic repellat
-      inventore quo, beatae doloribus enim totam amet nemo optio fuga sit. Tempora
-      reprehenderit minima veniam vitae quasi nesciunt ullam fuga accusantium nisi nemo.
-      Asperiores, rem eum, dolores suscipit voluptas rerum mollitia veritatis blanditiis
-      inventore, quis distinctio accusamus sint quos molestias possimus et enim optio
-      velit dignissimos eaque quia consequatur id! Labore natus earum quidem quisquam,
-      odit tempora expedita ipsa, vel veritatis id, quas at sed explicabo quia? Unde
-      expedita vero odit, saepe nihil facere facilis explicabo ad accusantium ullam
-      nostrum velit vel excepturi nobis fugiat? Magni quasi dolorem sequi? Recusandae
-      officia ab unde vel? Fuga ut eaque animi sint qui excepturi ipsa esse maiores beatae
-      eum velit adipisci vel libero repellat optio quia ex cumque quos id error, atque
-      soluta? Fugit, id distinctio unde quasi, vitae necessitatibus omnis sunt nulla ut,
-      at consequuntur vero corrupti illo iure adipisci. Aspernatur suscipit quas dolor,
-      recusandae eaque velit dignissimos quisquam nihil vero, dicta beatae aperiam id
-      reiciendis natus ducimus vel porro sequi iure ab a at ex illo obcaecati! Praesentium
-      quasi est sed ipsam minima? Obcaecati sint libero quia nam omnis, delectus
-      laudantium repudiandae, labore, quas molestias enim modi assumenda alias
-      reprehenderit vel ab sequi minima consectetur. Neque quis architecto unde
-      consequatur mollitia atque non saepe nobis blanditiis? Fugiat, eveniet. Nostrum
-      illum non nam vero aut asperiores? Asperiores optio aspernatur dolores ullam magni
-      eveniet accusamus unde sunt? Numquam provident praesentium neque earum deleniti!
-      Mollitia placeat dolore, iure ab minima recusandae at exercitationem nulla animi
-      aliquid quibusdam, consequatur blanditiis itaque voluptatum quia fugit fugiat nisi
-      consectetur dignissimos! Pariatur saepe, voluptate itaque dolores nemo quo unde cum
-      magni amet ipsam aliquam sequi repudiandae perspiciatis eligendi beatae! Quod
-      recusandae, ab alias sunt officia harum porro, autem similique reprehenderit cum
-      explicabo? Quidem labore minus beatae. Delectus atque incidunt sed, laudantium
-      blanditiis architecto error eaque sit, asperiores consequatur quia, quaerat dicta
-      omnis quo similique! Ut labore laborum, pariatur quidem commodi soluta, dolorem cum,
-      illum nihil doloremque quos quia recusandae excepturi sit praesentium incidunt.
-      Corrupti veniam voluptas temporibus pariatur aliquam, ex iste distinctio consequatur
-      suscipit quidem dolore accusamus accusantium blanditiis necessitatibus, soluta
-      repellat ipsa dolorum consequuntur! Consequatur dolorum vitae dolores sequi! Magni a
-      necessitatibus, possimus accusantium iusto laborum qui, laboriosam libero dolorem
-      nam cum? Libero est mollitia nisi officiis quisquam dolore, facilis ab nesciunt,
-      quas possimus neque aspernatur quidem nam? Quo, perspiciatis quidem minima
-      perferendis obcaecati dolor distinctio iusto dolore quibusdam atque, molestias unde
-      incidunt, debitis rem asperiores accusantium? Odit facilis facere possimus minima,
-      quo consequuntur animi nam, necessitatibus molestiae nulla error quasi repellat.
-      Omnis possimus sed esse voluptatem iure quaerat quia, tempore suscipit fuga fugit
-      recusandae enim. Architecto ullam vitae provident doloremque debitis! Debitis saepe
-      necessitatibus, qui at, quos atque corrupti tempora animi quidem soluta,
-      reprehenderit magni doloribus aut inventore explicabo maxime! Ipsam numquam nulla
-      officia accusantium impedit totam nihil harum nostrum nemo? Aspernatur ipsa nostrum
-      voluptatem maxime, natus enim, dolorum dicta nobis labore nam eius tempore
-      repellendus eveniet. Similique eos vero porro velit maiores tenetur nostrum omnis
-      quibusdam. Nemo porro dolor assumenda facilis. Ipsum, voluptatibus laudantium
-      provident saepe nihil ducimus ab sint, doloremque error fugit repellat, at ea amet
-      possimus vel explicabo. Cumque ex nostrum impedit corrupti dolorum quod omnis
-      consectetur facere, rem accusantium modi velit quaerat earum mollitia, architecto
-      eveniet at, dolores optio.
-    </p>
+    <h2 class="my-2">Dash Home</h2>
+
+    <section class="bg-white dark:bg-gray-900">
+      <div class="container px-6 py-12 mx-auto">
+        <div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
+          <div>
+            <svg class="w-8 h-8" viewBox="0 0 30 30" fill="none">
+              <path
+                d="M29.6931 14.2283L22.7556 6.87823C22.3292 6.426 21.6175 6.40538 21.1652 6.83212C20.7137 7.25851 20.6927 7.9706 21.1195 8.42248L27.3284 15L21.1195 21.5783C20.6927 22.0302 20.7137 22.7419 21.1652 23.1687C21.3827 23.3738 21.6606 23.4754 21.9374 23.4754C22.2363 23.4754 22.5348 23.3569 22.7557 23.1233L29.6932 15.7729C30.1022 15.339 30.1023 14.6618 29.6931 14.2283Z"
+                fill="#2D3748"
+              />
+              <path
+                d="M8.88087 21.578L2.67236 15L8.88087 8.42215C9.30726 7.97028 9.28664 7.25812 8.83476 6.83179C8.38323 6.4054 7.67073 6.42603 7.2444 6.87791L0.306858 14.2279C-0.102245 14.6614 -0.102245 15.3391 0.306858 15.7726L7.24475 23.123C7.466 23.3574 7.76413 23.4755 8.06302 23.4755C8.33976 23.4755 8.61767 23.3735 8.83476 23.1684C9.28705 22.742 9.30726 22.0299 8.88087 21.578Z"
+                fill="#2D3748"
+              />
+              <path
+                d="M16.8201 3.08774C16.2062 2.99476 15.6317 3.41622 15.5379 4.03011L12.2379 25.6302C12.1441 26.2445 12.566 26.8186 13.1803 26.9124C13.238 26.921 13.295 26.9252 13.3516 26.9252C13.898 26.9252 14.3773 26.5266 14.4624 25.97L17.7624 4.3699C17.8562 3.7556 17.4343 3.1815 16.8201 3.08774Z"
+                fill="#4299E1"
+              />
+            </svg>
+
+            <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
+              Default Taiwindcss Config
+            </h1>
+
+            <p class="mt-2 text-gray-500 dark:text-gray-400">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim fusce
+              tortor, ac sed malesuada blandit. Et mi gravida sem feugiat.
+            </p>
+          </div>
+
+          <div>
+            <svg class="w-8 h-8" viewBox="0 0 30 30" fill="none">
+              <path
+                d="M27.3633 7.08984H26.4844V6.21094C26.4844 4.75705 25.3015 3.57422 23.8477 3.57422H4.39453C2.94064 3.57422 1.75781 4.75705 1.75781 6.21094V21.1523H0.878906C0.393516 21.1523 0 21.5459 0 22.0312V23.7891C0 25.2429 1.18283 26.4258 2.63672 26.4258H27.3633C28.8172 26.4258 30 25.2429 30 23.7891V9.72656C30 8.27268 28.8172 7.08984 27.3633 7.08984ZM3.51562 6.21094C3.51562 5.72631 3.9099 5.33203 4.39453 5.33203H23.8477C24.3323 5.33203 24.7266 5.72631 24.7266 6.21094V7.08984H20.332C18.8781 7.08984 17.6953 8.27268 17.6953 9.72656V21.1523H3.51562V6.21094ZM1.75781 23.7891V22.9102H17.6953V23.7891C17.6953 24.0971 17.7489 24.3929 17.8465 24.668H2.63672C2.15209 24.668 1.75781 24.2737 1.75781 23.7891ZM28.2422 23.7891C28.2422 24.2737 27.8479 24.668 27.3633 24.668H20.332C19.8474 24.668 19.4531 24.2737 19.4531 23.7891V9.72656C19.4531 9.24193 19.8474 8.84766 20.332 8.84766H27.3633C27.8479 8.84766 28.2422 9.24193 28.2422 9.72656V23.7891Z"
+                fill="#2D3748"
+              />
+              <path
+                d="M24.7266 21.1523H22.9688C22.4834 21.1523 22.0898 21.5459 22.0898 22.0312C22.0898 22.5166 22.4834 22.9102 22.9688 22.9102H24.7266C25.212 22.9102 25.6055 22.5166 25.6055 22.0312C25.6055 21.5459 25.212 21.1523 24.7266 21.1523Z"
+                fill="#4299E1"
+              />
+              <path
+                d="M23.8477 12.3633C24.3331 12.3633 24.7266 11.9698 24.7266 11.4844C24.7266 10.999 24.3331 10.6055 23.8477 10.6055C23.3622 10.6055 22.9688 10.999 22.9688 11.4844C22.9688 11.9698 23.3622 12.3633 23.8477 12.3633Z"
+                fill="#4299E1"
+              />
+            </svg>
+
+            <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
+              Fully Responsive Components
+            </h1>
+
+            <p class="mt-2 text-gray-500 dark:text-gray-400">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim fusce
+              tortor, ac sed malesuada blandit. Et mi gravida sem feugiat.
+            </p>
+          </div>
+
+          <div>
+            <svg class="w-8 h-8" viewBox="0 0 30 30" fill="none">
+              <g clip-path="url(#clip0)">
+                <path
+                  d="M26.599 4.339a1.875 1.875 0 11-3.75 0 1.875 1.875 0 013.75 0zM7.151 25.661a1.875 1.875 0 11-3.75 0 1.875 1.875 0 013.75 0zM23.486 13.163a8.636 8.636 0 00-1.19-2.873l1.123-1.123-2.592-2.59L19.705 7.7a8.636 8.636 0 00-2.873-1.19V4.921h-3.664v1.586a8.634 8.634 0 00-2.873 1.19l-1.122-1.12-2.592 2.589 1.123 1.123a8.636 8.636 0 00-1.19 2.873H4.922l-.002 3.663h1.592A8.626 8.626 0 007.704 19.7l-1.127 1.127 2.59 2.591 1.128-1.127a8.623 8.623 0 002.873 1.19v1.597h3.664v-1.597a8.628 8.628 0 002.873-1.19l1.128 1.128 2.59-2.592-1.127-1.127a8.627 8.627 0 001.19-2.873h1.593v-3.664h-1.593zM15 19.256a4.255 4.255 0 110-8.511 4.255 4.255 0 010 8.51z"
+                  fill="#4299E1"
+                />
+                <path
+                  d="M5.276 23.2c-.42 0-.823.105-1.182.302A13.853 13.853 0 011.172 15C1.172 7.375 7.375 1.172 15 1.172c.927 0 1.854.092 2.754.274a.586.586 0 00.232-1.149A15.111 15.111 0 0015 0C10.993 0 7.226 1.56 4.393 4.393A14.902 14.902 0 000 15c0 3.37 1.144 6.66 3.228 9.296-.268.4-.413.872-.413 1.365 0 .657.257 1.275.721 1.74a2.444 2.444 0 001.74.721c.658 0 1.276-.256 1.74-.721.465-.465.721-1.083.721-1.74s-.256-1.276-.72-1.74a2.445 2.445 0 00-1.74-.72zm.912 3.373a1.28 1.28 0 01-.912.377 1.28 1.28 0 01-.911-.377 1.28 1.28 0 01-.378-.912c0-.344.134-.668.378-.912a1.28 1.28 0 01.911-.377c.345 0 .668.134.912.378.243.243.377.567.377.911 0 .344-.134.668-.377.912zM26.772 5.703a2.465 2.465 0 00-.308-3.104 2.446 2.446 0 00-1.74-.721c-.658 0-1.276.256-1.74.72a2.445 2.445 0 00-.721 1.74c0 .658.256 1.276.72 1.741.465.465 1.083.72 1.74.72.42 0 .824-.104 1.183-.3A13.854 13.854 0 0128.828 15c0 7.625-6.203 13.828-13.828 13.828-.918 0-1.836-.09-2.728-.269a.586.586 0 00-.23 1.15c.968.193 1.963.291 2.958.291 4.007 0 7.773-1.56 10.607-4.393A14.902 14.902 0 0030 15c0-3.37-1.145-6.66-3.228-9.297zm-2.96-.452a1.28 1.28 0 01-.377-.912c0-.344.134-.668.377-.911a1.28 1.28 0 01.912-.378 1.29 1.29 0 010 2.578 1.28 1.28 0 01-.912-.377z"
+                  fill="#2D3748"
+                />
+                <path
+                  d="M12.582 25.078c0 .324.263.586.586.586h3.664a.586.586 0 00.586-.586v-1.136a9.179 9.179 0 002.199-.911l.802.802a.586.586 0 00.829 0l2.59-2.592a.586.586 0 000-.828l-.802-.802a9.169 9.169 0 00.911-2.199h1.132a.586.586 0 00.586-.585v-3.664a.586.586 0 00-.586-.586h-1.132a9.17 9.17 0 00-.911-2.199l.797-.797a.587.587 0 000-.829l-2.592-2.59a.586.586 0 00-.829 0l-.795.797a9.177 9.177 0 00-2.2-.912V4.922a.586.586 0 00-.585-.586h-3.664a.586.586 0 00-.586.586v1.126a9.169 9.169 0 00-2.199.91l-.796-.795a.586.586 0 00-.828 0l-2.592 2.59a.585.585 0 000 .828l.797.797a9.173 9.173 0 00-.911 2.199h-1.13a.586.586 0 00-.586.585l-.002 3.664a.585.585 0 00.586.586h1.132c.207.77.512 1.507.911 2.2l-.801.8a.586.586 0 000 .83l2.59 2.59a.586.586 0 00.829 0l.801-.801a9.185 9.185 0 002.2.911v1.136zm-1.97-3.28a.586.586 0 00-.732.078l-.713.714-1.761-1.763.712-.713a.586.586 0 00.078-.732 8.02 8.02 0 01-1.11-2.679.586.586 0 00-.572-.462H5.507l.002-2.492h1.005a.586.586 0 00.572-.463 8.022 8.022 0 011.11-2.678.586.586 0 00-.078-.733l-.708-.708 1.763-1.761.707.707c.196.196.5.228.733.078a8.016 8.016 0 012.678-1.11.586.586 0 00.463-.573v-1h2.492v1c0 .277.193.515.463.573a8.024 8.024 0 012.678 1.11c.232.15.537.118.732-.078l.708-.707 1.762 1.761-.708.708a.586.586 0 00-.078.732 8.027 8.027 0 011.11 2.679c.058.27.297.463.573.463h1.007v2.492h-1.007a.586.586 0 00-.573.462 8.02 8.02 0 01-1.11 2.679.586.586 0 00.078.732l.713.713-1.761 1.762-.714-.713a.586.586 0 00-.732-.078 8.027 8.027 0 01-2.678 1.11.586.586 0 00-.463.573v1.011h-2.492v-1.01a.586.586 0 00-.463-.574 8.021 8.021 0 01-2.678-1.11z"
+                  fill="#2D3748"
+                />
+                <path
+                  d="M19.841 15A4.847 4.847 0 0015 10.158 4.847 4.847 0 0010.158 15 4.847 4.847 0 0015 19.841 4.847 4.847 0 0019.841 15zm-8.51 0A3.674 3.674 0 0115 11.33 3.674 3.674 0 0118.67 15 3.674 3.674 0 0115 18.67 3.674 3.674 0 0111.33 15z"
+                  fill="#2D3748"
+                />
+                <path
+                  d="M20.395 2.216a.59.59 0 00.415-.172.593.593 0 00.171-.415.59.59 0 00-.586-.586.589.589 0 00-.586.586.589.589 0 00.586.587zM9.63 27.794a.59.59 0 00-.586.586.59.59 0 00.586.586.59.59 0 00.586-.586.59.59 0 00-.586-.585z"
+                  fill="#4299E1"
+                />
+              </g>
+              <defs>
+                <clipPath id="clip0">
+                  <path fill="#fff" d="M0 0h30v30H0z" />
+                </clipPath>
+              </defs>
+            </svg>
+
+            <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
+              RTL Languages Support
+            </h1>
+
+            <p class="mt-2 text-gray-500 dark:text-gray-400">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim fusce
+              tortor, ac sed malesuada blandit. Et mi gravida sem feugiat.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <div class="grid grid-cols-4">
+      <div
+        v-for="item in 8"
+        :key="item"
+        class="max-w-sm my-3 mx-auto overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800"
+      >
+        <img
+          class="object-cover object-center w-full h-56"
+          src="https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80"
+          alt="avatar"
+        />
+
+        <div class="flex items-center px-6 py-3 bg-gray-900">
+          <svg
+            class="w-6 h-6 text-white fill-current"
+            viewBox="0 0 24 24"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              fill-rule="evenodd"
+              clip-rule="evenodd"
+              d="M17 21C15.8954 21 15 20.1046 15 19V15C15 13.8954 15.8954 13 17 13H19V12C19 8.13401 15.866 5 12 5C8.13401 5 5 8.13401 5 12V13H7C8.10457 13 9 13.8954 9 15V19C9 20.1046 8.10457 21 7 21H3V12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12V21H17ZM19 15H17V19H19V15ZM7 15H5V19H7V15Z"
+            />
+          </svg>
+
+          <h1 class="mx-3 text-lg font-semibold text-white">Focusing</h1>
+        </div>
+
+        <div class="px-6 py-4">
+          <h1 class="text-xl font-semibold text-gray-800 dark:text-white">
+            Patterson johnson
+          </h1>
+
+          <p class="py-2 text-gray-700 dark:text-gray-400">
+            Full Stack maker & UI / UX Designer , love hip hop music Author of Building
+            UI.
+          </p>
+
+          <div class="flex items-center mt-4 text-gray-700 dark:text-gray-200">
+            <svg
+              class="w-6 h-6 fill-current"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path d="M14 11H10V13H14V11Z" />
+              <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M7 5V4C7 2.89545 7.89539 2 9 2H15C16.1046 2 17 2.89545 17 4V5H20C21.6569 5 23 6.34314 23 8V18C23 19.6569 21.6569 21 20 21H4C2.34314 21 1 19.6569 1 18V8C1 6.34314 2.34314 5 4 5H7ZM9 4H15V5H9V4ZM4 7C3.44775 7 3 7.44769 3 8V14H21V8C21 7.44769 20.5522 7 20 7H4ZM3 18V16H21V18C21 18.5523 20.5522 19 20 19H4C3.44775 19 3 18.5523 3 18Z"
+              />
+            </svg>
+
+            <h1 class="px-2 text-sm">Meraki UI</h1>
+          </div>
+
+          <div class="flex items-center mt-4 text-gray-700 dark:text-gray-200">
+            <svg
+              class="w-6 h-6 fill-current"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M16.2721 10.2721C16.2721 12.4813 14.4813 14.2721 12.2721 14.2721C10.063 14.2721 8.27214 12.4813 8.27214 10.2721C8.27214 8.063 10.063 6.27214 12.2721 6.27214C14.4813 6.27214 16.2721 8.063 16.2721 10.2721ZM14.2721 10.2721C14.2721 11.3767 13.3767 12.2721 12.2721 12.2721C11.1676 12.2721 10.2721 11.3767 10.2721 10.2721C10.2721 9.16757 11.1676 8.27214 12.2721 8.27214C13.3767 8.27214 14.2721 9.16757 14.2721 10.2721Z"
+              />
+              <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M5.79417 16.5183C2.19424 13.0909 2.05438 7.3941 5.48178 3.79418C8.90918 0.194258 14.6059 0.0543983 18.2059 3.48179C21.8058 6.90919 21.9457 12.606 18.5183 16.2059L12.3124 22.7241L5.79417 16.5183ZM17.0698 14.8268L12.243 19.8965L7.17324 15.0698C4.3733 12.404 4.26452 7.9732 6.93028 5.17326C9.59603 2.37332 14.0268 2.26454 16.8268 4.93029C19.6267 7.59604 19.7355 12.0269 17.0698 14.8268Z"
+              />
+            </svg>
+
+            <h1 class="px-2 text-sm">California</h1>
+          </div>
+
+          <div class="flex items-center mt-4 text-gray-700 dark:text-gray-200">
+            <svg
+              class="w-6 h-6 fill-current"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M3.00977 5.83789C3.00977 5.28561 3.45748 4.83789 4.00977 4.83789H20C20.5523 4.83789 21 5.28561 21 5.83789V17.1621C21 18.2667 20.1046 19.1621 19 19.1621H5C3.89543 19.1621 3 18.2667 3 17.1621V6.16211C3 6.11449 3.00333 6.06765 3.00977 6.0218V5.83789ZM5 8.06165V17.1621H19V8.06199L14.1215 12.9405C12.9499 14.1121 11.0504 14.1121 9.87885 12.9405L5 8.06165ZM6.57232 6.80554H17.428L12.7073 11.5263C12.3168 11.9168 11.6836 11.9168 11.2931 11.5263L6.57232 6.80554Z"
+              />
+            </svg>
+
+            <h1 class="px-2 text-sm">patterson@example.com</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <section class="bg-white dark:bg-gray-900">
+      <div class="container px-6 py-10 mx-auto">
+        <h1
+          class="text-3xl font-semibold text-center text-gray-800 capitalize lg:text-4xl dark:text-white"
+        >
+          Our <span class="text-primary">Executive Team</span>
+        </h1>
+
+        <p class="max-w-2xl mx-auto my-6 text-center text-gray-500 dark:text-gray-300">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo incidunt ex
+          placeat modi magni quia error alias, adipisci rem similique, at omnis eligendi
+          optio eos harum.
+        </p>
+
+        <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-16 md:grid-cols-2 xl:grid-cols-2">
+          <div
+            class="px-12 py-8 transition-colors duration-200 transform border cursor-pointer rounded-xl hover:border-transparent group hover:bg-primary dark:border-gray-700 dark:hover:border-transparent"
+          >
+            <div class="flex flex-col sm:-mx-4 sm:flex-row">
+              <img
+                class="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-gray-300"
+                src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+                alt=""
+              />
+
+              <div class="mt-4 sm:mx-4 sm:mt-0">
+                <h1
+                  class="text-xl font-semibold text-gray-700 capitalize md:text-2xl dark:text-white group-hover:text-white"
+                >
+                  arthur melo
+                </h1>
+
+                <p
+                  class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300"
+                >
+                  design director
+                </p>
+              </div>
+            </div>
+
+            <p
+              class="mt-4 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300"
+            >
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum nesciunt
+              officia aliquam neque optio? Cumque facere numquam est.
+            </p>
+
+            <div class="flex mt-4 -mx-2">
+              <a
+                href="#"
+                class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white"
+                aria-label="Reddit"
+              >
+                <svg
+                  class="w-6 h-6 fill-current"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12C21.9939 17.5203 17.5203 21.9939 12 22ZM6.807 10.543C6.20862 10.5433 5.67102 10.9088 5.45054 11.465C5.23006 12.0213 5.37133 12.6558 5.807 13.066C5.92217 13.1751 6.05463 13.2643 6.199 13.33C6.18644 13.4761 6.18644 13.6229 6.199 13.769C6.199 16.009 8.814 17.831 12.028 17.831C15.242 17.831 17.858 16.009 17.858 13.769C17.8696 13.6229 17.8696 13.4761 17.858 13.33C18.4649 13.0351 18.786 12.3585 18.6305 11.7019C18.475 11.0453 17.8847 10.5844 17.21 10.593H17.157C16.7988 10.6062 16.458 10.7512 16.2 11C15.0625 10.2265 13.7252 9.79927 12.35 9.77L13 6.65L15.138 7.1C15.1931 7.60706 15.621 7.99141 16.131 7.992C16.1674 7.99196 16.2038 7.98995 16.24 7.986C16.7702 7.93278 17.1655 7.47314 17.1389 6.94094C17.1122 6.40873 16.6729 5.991 16.14 5.991C16.1022 5.99191 16.0645 5.99491 16.027 6C15.71 6.03367 15.4281 6.21641 15.268 6.492L12.82 6C12.7983 5.99535 12.7762 5.993 12.754 5.993C12.6094 5.99472 12.4851 6.09583 12.454 6.237L11.706 9.71C10.3138 9.7297 8.95795 10.157 7.806 10.939C7.53601 10.6839 7.17843 10.5422 6.807 10.543ZM12.18 16.524C12.124 16.524 12.067 16.524 12.011 16.524C11.955 16.524 11.898 16.524 11.842 16.524C11.0121 16.5208 10.2054 16.2497 9.542 15.751C9.49626 15.6958 9.47445 15.6246 9.4814 15.5533C9.48834 15.482 9.52348 15.4163 9.579 15.371C9.62737 15.3318 9.68771 15.3102 9.75 15.31C9.81233 15.31 9.87275 15.3315 9.921 15.371C10.4816 15.7818 11.159 16.0022 11.854 16C11.9027 16 11.9513 16 12 16C12.059 16 12.119 16 12.178 16C12.864 16.0011 13.5329 15.7863 14.09 15.386C14.1427 15.3322 14.2147 15.302 14.29 15.302C14.3653 15.302 14.4373 15.3322 14.49 15.386C14.5985 15.4981 14.5962 15.6767 14.485 15.786V15.746C13.8213 16.2481 13.0123 16.5208 12.18 16.523V16.524ZM14.307 14.08H14.291L14.299 14.041C13.8591 14.011 13.4994 13.6789 13.4343 13.2429C13.3691 12.8068 13.6162 12.3842 14.028 12.2269C14.4399 12.0697 14.9058 12.2202 15.1478 12.5887C15.3899 12.9572 15.3429 13.4445 15.035 13.76C14.856 13.9554 14.6059 14.0707 14.341 14.08H14.306H14.307ZM9.67 14C9.11772 14 8.67 13.5523 8.67 13C8.67 12.4477 9.11772 12 9.67 12C10.2223 12 10.67 12.4477 10.67 13C10.67 13.5523 10.2223 14 9.67 14Z"
+                  ></path>
+                </svg>
+              </a>
+
+              <a
+                href="#"
+                class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white"
+                aria-label="Facebook"
+              >
+                <svg
+                  class="w-6 h-6 fill-current"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M2.00195 12.002C2.00312 16.9214 5.58036 21.1101 10.439 21.881V14.892H7.90195V12.002H10.442V9.80204C10.3284 8.75958 10.6845 7.72064 11.4136 6.96698C12.1427 6.21332 13.1693 5.82306 14.215 5.90204C14.9655 5.91417 15.7141 5.98101 16.455 6.10205V8.56104H15.191C14.7558 8.50405 14.3183 8.64777 14.0017 8.95171C13.6851 9.25566 13.5237 9.68693 13.563 10.124V12.002H16.334L15.891 14.893H13.563V21.881C18.8174 21.0506 22.502 16.2518 21.9475 10.9611C21.3929 5.67041 16.7932 1.73997 11.4808 2.01722C6.16831 2.29447 2.0028 6.68235 2.00195 12.002Z"
+                  ></path>
+                </svg>
+              </a>
+
+              <a
+                href="#"
+                class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white"
+                aria-label="Github"
+              >
+                <svg
+                  class="w-6 h-6 fill-current"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12.026 2C7.13295 1.99937 2.96183 5.54799 2.17842 10.3779C1.395 15.2079 4.23061 19.893 8.87302 21.439C9.37302 21.529 9.55202 21.222 9.55202 20.958C9.55202 20.721 9.54402 20.093 9.54102 19.258C6.76602 19.858 6.18002 17.92 6.18002 17.92C5.99733 17.317 5.60459 16.7993 5.07302 16.461C4.17302 15.842 5.14202 15.856 5.14202 15.856C5.78269 15.9438 6.34657 16.3235 6.66902 16.884C6.94195 17.3803 7.40177 17.747 7.94632 17.9026C8.49087 18.0583 9.07503 17.99 9.56902 17.713C9.61544 17.207 9.84055 16.7341 10.204 16.379C7.99002 16.128 5.66202 15.272 5.66202 11.449C5.64973 10.4602 6.01691 9.5043 6.68802 8.778C6.38437 7.91731 6.42013 6.97325 6.78802 6.138C6.78802 6.138 7.62502 5.869 9.53002 7.159C11.1639 6.71101 12.8882 6.71101 14.522 7.159C16.428 5.868 17.264 6.138 17.264 6.138C17.6336 6.97286 17.6694 7.91757 17.364 8.778C18.0376 9.50423 18.4045 10.4626 18.388 11.453C18.388 15.286 16.058 16.128 13.836 16.375C14.3153 16.8651 14.5612 17.5373 14.511 18.221C14.511 19.555 14.499 20.631 14.499 20.958C14.499 21.225 14.677 21.535 15.186 21.437C19.8265 19.8884 22.6591 15.203 21.874 10.3743C21.089 5.54565 16.9181 1.99888 12.026 2Z"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+          </div>
+
+          <div
+            class="px-12 py-8 transition-colors duration-200 transform border cursor-pointer rounded-xl hover:border-transparent group hover:bg-primary dark:border-gray-700 dark:hover:border-transparent"
+          >
+            <div class="flex flex-col sm:-mx-4 sm:flex-row">
+              <img
+                class="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-gray-300"
+                src="https://images.unsplash.com/photo-1531590878845-12627191e687?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+                alt=""
+              />
+
+              <div class="mt-4 sm:mx-4 sm:mt-0">
+                <h1
+                  class="text-xl font-semibold text-gray-700 capitalize md:text-2xl dark:text-white group-hover:text-white"
+                >
+                  Amelia. Anderson
+                </h1>
+
+                <p
+                  class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300"
+                >
+                  Lead Developer
+                </p>
+              </div>
+            </div>
+
+            <p
+              class="mt-4 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300"
+            >
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum nesciunt
+              officia aliquam neque optio? Cumque facere numquam est.
+            </p>
+
+            <div class="flex mt-4 -mx-2">
+              <a
+                href="#"
+                class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white"
+                aria-label="Reddit"
+              >
+                <svg
+                  class="w-6 h-6 fill-current"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12C21.9939 17.5203 17.5203 21.9939 12 22ZM6.807 10.543C6.20862 10.5433 5.67102 10.9088 5.45054 11.465C5.23006 12.0213 5.37133 12.6558 5.807 13.066C5.92217 13.1751 6.05463 13.2643 6.199 13.33C6.18644 13.4761 6.18644 13.6229 6.199 13.769C6.199 16.009 8.814 17.831 12.028 17.831C15.242 17.831 17.858 16.009 17.858 13.769C17.8696 13.6229 17.8696 13.4761 17.858 13.33C18.4649 13.0351 18.786 12.3585 18.6305 11.7019C18.475 11.0453 17.8847 10.5844 17.21 10.593H17.157C16.7988 10.6062 16.458 10.7512 16.2 11C15.0625 10.2265 13.7252 9.79927 12.35 9.77L13 6.65L15.138 7.1C15.1931 7.60706 15.621 7.99141 16.131 7.992C16.1674 7.99196 16.2038 7.98995 16.24 7.986C16.7702 7.93278 17.1655 7.47314 17.1389 6.94094C17.1122 6.40873 16.6729 5.991 16.14 5.991C16.1022 5.99191 16.0645 5.99491 16.027 6C15.71 6.03367 15.4281 6.21641 15.268 6.492L12.82 6C12.7983 5.99535 12.7762 5.993 12.754 5.993C12.6094 5.99472 12.4851 6.09583 12.454 6.237L11.706 9.71C10.3138 9.7297 8.95795 10.157 7.806 10.939C7.53601 10.6839 7.17843 10.5422 6.807 10.543ZM12.18 16.524C12.124 16.524 12.067 16.524 12.011 16.524C11.955 16.524 11.898 16.524 11.842 16.524C11.0121 16.5208 10.2054 16.2497 9.542 15.751C9.49626 15.6958 9.47445 15.6246 9.4814 15.5533C9.48834 15.482 9.52348 15.4163 9.579 15.371C9.62737 15.3318 9.68771 15.3102 9.75 15.31C9.81233 15.31 9.87275 15.3315 9.921 15.371C10.4816 15.7818 11.159 16.0022 11.854 16C11.9027 16 11.9513 16 12 16C12.059 16 12.119 16 12.178 16C12.864 16.0011 13.5329 15.7863 14.09 15.386C14.1427 15.3322 14.2147 15.302 14.29 15.302C14.3653 15.302 14.4373 15.3322 14.49 15.386C14.5985 15.4981 14.5962 15.6767 14.485 15.786V15.746C13.8213 16.2481 13.0123 16.5208 12.18 16.523V16.524ZM14.307 14.08H14.291L14.299 14.041C13.8591 14.011 13.4994 13.6789 13.4343 13.2429C13.3691 12.8068 13.6162 12.3842 14.028 12.2269C14.4399 12.0697 14.9058 12.2202 15.1478 12.5887C15.3899 12.9572 15.3429 13.4445 15.035 13.76C14.856 13.9554 14.6059 14.0707 14.341 14.08H14.306H14.307ZM9.67 14C9.11772 14 8.67 13.5523 8.67 13C8.67 12.4477 9.11772 12 9.67 12C10.2223 12 10.67 12.4477 10.67 13C10.67 13.5523 10.2223 14 9.67 14Z"
+                  ></path>
+                </svg>
+              </a>
+
+              <a
+                href="#"
+                class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white"
+                aria-label="Facebook"
+              >
+                <svg
+                  class="w-6 h-6 fill-current"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M2.00195 12.002C2.00312 16.9214 5.58036 21.1101 10.439 21.881V14.892H7.90195V12.002H10.442V9.80204C10.3284 8.75958 10.6845 7.72064 11.4136 6.96698C12.1427 6.21332 13.1693 5.82306 14.215 5.90204C14.9655 5.91417 15.7141 5.98101 16.455 6.10205V8.56104H15.191C14.7558 8.50405 14.3183 8.64777 14.0017 8.95171C13.6851 9.25566 13.5237 9.68693 13.563 10.124V12.002H16.334L15.891 14.893H13.563V21.881C18.8174 21.0506 22.502 16.2518 21.9475 10.9611C21.3929 5.67041 16.7932 1.73997 11.4808 2.01722C6.16831 2.29447 2.0028 6.68235 2.00195 12.002Z"
+                  ></path>
+                </svg>
+              </a>
+
+              <a
+                href="#"
+                class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white"
+                aria-label="Github"
+              >
+                <svg
+                  class="w-6 h-6 fill-current"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12.026 2C7.13295 1.99937 2.96183 5.54799 2.17842 10.3779C1.395 15.2079 4.23061 19.893 8.87302 21.439C9.37302 21.529 9.55202 21.222 9.55202 20.958C9.55202 20.721 9.54402 20.093 9.54102 19.258C6.76602 19.858 6.18002 17.92 6.18002 17.92C5.99733 17.317 5.60459 16.7993 5.07302 16.461C4.17302 15.842 5.14202 15.856 5.14202 15.856C5.78269 15.9438 6.34657 16.3235 6.66902 16.884C6.94195 17.3803 7.40177 17.747 7.94632 17.9026C8.49087 18.0583 9.07503 17.99 9.56902 17.713C9.61544 17.207 9.84055 16.7341 10.204 16.379C7.99002 16.128 5.66202 15.272 5.66202 11.449C5.64973 10.4602 6.01691 9.5043 6.68802 8.778C6.38437 7.91731 6.42013 6.97325 6.78802 6.138C6.78802 6.138 7.62502 5.869 9.53002 7.159C11.1639 6.71101 12.8882 6.71101 14.522 7.159C16.428 5.868 17.264 6.138 17.264 6.138C17.6336 6.97286 17.6694 7.91757 17.364 8.778C18.0376 9.50423 18.4045 10.4626 18.388 11.453C18.388 15.286 16.058 16.128 13.836 16.375C14.3153 16.8651 14.5612 17.5373 14.511 18.221C14.511 19.555 14.499 20.631 14.499 20.958C14.499 21.225 14.677 21.535 15.186 21.437C19.8265 19.8884 22.6591 15.203 21.874 10.3743C21.089 5.54565 16.9181 1.99888 12.026 2Z"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+          </div>
+
+          <div
+            class="px-12 py-8 transition-colors duration-200 transform border cursor-pointer rounded-xl hover:border-transparent group hover:bg-primary dark:border-gray-700 dark:hover:border-transparent"
+          >
+            <div class="flex flex-col sm:-mx-4 sm:flex-row">
+              <img
+                class="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-gray-300"
+                src="https://images.unsplash.com/photo-1488508872907-592763824245?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+                alt=""
+              />
+
+              <div class="mt-4 sm:mx-4 sm:mt-0">
+                <h1
+                  class="text-xl font-semibold text-gray-700 capitalize md:text-2xl dark:text-white group-hover:text-white"
+                >
+                  Olivia Wathan
+                </h1>
+
+                <p
+                  class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300"
+                >
+                  Lead designer
+                </p>
+              </div>
+            </div>
+
+            <p
+              class="mt-4 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300"
+            >
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum nesciunt
+              officia aliquam neque optio? Cumque facere numquam est.
+            </p>
+
+            <div class="flex mt-4 -mx-2">
+              <a
+                href="#"
+                class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white"
+                aria-label="Reddit"
+              >
+                <svg
+                  class="w-6 h-6 fill-current"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12C21.9939 17.5203 17.5203 21.9939 12 22ZM6.807 10.543C6.20862 10.5433 5.67102 10.9088 5.45054 11.465C5.23006 12.0213 5.37133 12.6558 5.807 13.066C5.92217 13.1751 6.05463 13.2643 6.199 13.33C6.18644 13.4761 6.18644 13.6229 6.199 13.769C6.199 16.009 8.814 17.831 12.028 17.831C15.242 17.831 17.858 16.009 17.858 13.769C17.8696 13.6229 17.8696 13.4761 17.858 13.33C18.4649 13.0351 18.786 12.3585 18.6305 11.7019C18.475 11.0453 17.8847 10.5844 17.21 10.593H17.157C16.7988 10.6062 16.458 10.7512 16.2 11C15.0625 10.2265 13.7252 9.79927 12.35 9.77L13 6.65L15.138 7.1C15.1931 7.60706 15.621 7.99141 16.131 7.992C16.1674 7.99196 16.2038 7.98995 16.24 7.986C16.7702 7.93278 17.1655 7.47314 17.1389 6.94094C17.1122 6.40873 16.6729 5.991 16.14 5.991C16.1022 5.99191 16.0645 5.99491 16.027 6C15.71 6.03367 15.4281 6.21641 15.268 6.492L12.82 6C12.7983 5.99535 12.7762 5.993 12.754 5.993C12.6094 5.99472 12.4851 6.09583 12.454 6.237L11.706 9.71C10.3138 9.7297 8.95795 10.157 7.806 10.939C7.53601 10.6839 7.17843 10.5422 6.807 10.543ZM12.18 16.524C12.124 16.524 12.067 16.524 12.011 16.524C11.955 16.524 11.898 16.524 11.842 16.524C11.0121 16.5208 10.2054 16.2497 9.542 15.751C9.49626 15.6958 9.47445 15.6246 9.4814 15.5533C9.48834 15.482 9.52348 15.4163 9.579 15.371C9.62737 15.3318 9.68771 15.3102 9.75 15.31C9.81233 15.31 9.87275 15.3315 9.921 15.371C10.4816 15.7818 11.159 16.0022 11.854 16C11.9027 16 11.9513 16 12 16C12.059 16 12.119 16 12.178 16C12.864 16.0011 13.5329 15.7863 14.09 15.386C14.1427 15.3322 14.2147 15.302 14.29 15.302C14.3653 15.302 14.4373 15.3322 14.49 15.386C14.5985 15.4981 14.5962 15.6767 14.485 15.786V15.746C13.8213 16.2481 13.0123 16.5208 12.18 16.523V16.524ZM14.307 14.08H14.291L14.299 14.041C13.8591 14.011 13.4994 13.6789 13.4343 13.2429C13.3691 12.8068 13.6162 12.3842 14.028 12.2269C14.4399 12.0697 14.9058 12.2202 15.1478 12.5887C15.3899 12.9572 15.3429 13.4445 15.035 13.76C14.856 13.9554 14.6059 14.0707 14.341 14.08H14.306H14.307ZM9.67 14C9.11772 14 8.67 13.5523 8.67 13C8.67 12.4477 9.11772 12 9.67 12C10.2223 12 10.67 12.4477 10.67 13C10.67 13.5523 10.2223 14 9.67 14Z"
+                  ></path>
+                </svg>
+              </a>
+
+              <a
+                href="#"
+                class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white"
+                aria-label="Facebook"
+              >
+                <svg
+                  class="w-6 h-6 fill-current"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M2.00195 12.002C2.00312 16.9214 5.58036 21.1101 10.439 21.881V14.892H7.90195V12.002H10.442V9.80204C10.3284 8.75958 10.6845 7.72064 11.4136 6.96698C12.1427 6.21332 13.1693 5.82306 14.215 5.90204C14.9655 5.91417 15.7141 5.98101 16.455 6.10205V8.56104H15.191C14.7558 8.50405 14.3183 8.64777 14.0017 8.95171C13.6851 9.25566 13.5237 9.68693 13.563 10.124V12.002H16.334L15.891 14.893H13.563V21.881C18.8174 21.0506 22.502 16.2518 21.9475 10.9611C21.3929 5.67041 16.7932 1.73997 11.4808 2.01722C6.16831 2.29447 2.0028 6.68235 2.00195 12.002Z"
+                  ></path>
+                </svg>
+              </a>
+
+              <a
+                href="#"
+                class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white"
+                aria-label="Github"
+              >
+                <svg
+                  class="w-6 h-6 fill-current"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12.026 2C7.13295 1.99937 2.96183 5.54799 2.17842 10.3779C1.395 15.2079 4.23061 19.893 8.87302 21.439C9.37302 21.529 9.55202 21.222 9.55202 20.958C9.55202 20.721 9.54402 20.093 9.54102 19.258C6.76602 19.858 6.18002 17.92 6.18002 17.92C5.99733 17.317 5.60459 16.7993 5.07302 16.461C4.17302 15.842 5.14202 15.856 5.14202 15.856C5.78269 15.9438 6.34657 16.3235 6.66902 16.884C6.94195 17.3803 7.40177 17.747 7.94632 17.9026C8.49087 18.0583 9.07503 17.99 9.56902 17.713C9.61544 17.207 9.84055 16.7341 10.204 16.379C7.99002 16.128 5.66202 15.272 5.66202 11.449C5.64973 10.4602 6.01691 9.5043 6.68802 8.778C6.38437 7.91731 6.42013 6.97325 6.78802 6.138C6.78802 6.138 7.62502 5.869 9.53002 7.159C11.1639 6.71101 12.8882 6.71101 14.522 7.159C16.428 5.868 17.264 6.138 17.264 6.138C17.6336 6.97286 17.6694 7.91757 17.364 8.778C18.0376 9.50423 18.4045 10.4626 18.388 11.453C18.388 15.286 16.058 16.128 13.836 16.375C14.3153 16.8651 14.5612 17.5373 14.511 18.221C14.511 19.555 14.499 20.631 14.499 20.958C14.499 21.225 14.677 21.535 15.186 21.437C19.8265 19.8884 22.6591 15.203 21.874 10.3743C21.089 5.54565 16.9181 1.99888 12.026 2Z"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+          </div>
+
+          <div
+            class="px-12 py-8 transition-colors duration-200 transform border cursor-pointer rounded-xl hover:border-transparent group hover:bg-primary dark:border-gray-700 dark:hover:border-transparent"
+          >
+            <div class="flex flex-col sm:-mx-4 sm:flex-row">
+              <img
+                class="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-gray-300"
+                src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+                alt=""
+              />
+
+              <div class="mt-4 sm:mx-4 sm:mt-0">
+                <h1
+                  class="text-xl font-semibold text-gray-700 capitalize md:text-2xl dark:text-white group-hover:text-white"
+                >
+                  John Doe
+                </h1>
+
+                <p
+                  class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300"
+                >
+                  Full stack developer
+                </p>
+              </div>
+            </div>
+
+            <p
+              class="mt-4 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300"
+            >
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum nesciunt
+              officia aliquam neque optio? Cumque facere numquam est.
+            </p>
+
+            <div class="flex mt-4 -mx-2">
+              <a
+                href="#"
+                class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white"
+                aria-label="Reddit"
+              >
+                <svg
+                  class="w-6 h-6 fill-current"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12C21.9939 17.5203 17.5203 21.9939 12 22ZM6.807 10.543C6.20862 10.5433 5.67102 10.9088 5.45054 11.465C5.23006 12.0213 5.37133 12.6558 5.807 13.066C5.92217 13.1751 6.05463 13.2643 6.199 13.33C6.18644 13.4761 6.18644 13.6229 6.199 13.769C6.199 16.009 8.814 17.831 12.028 17.831C15.242 17.831 17.858 16.009 17.858 13.769C17.8696 13.6229 17.8696 13.4761 17.858 13.33C18.4649 13.0351 18.786 12.3585 18.6305 11.7019C18.475 11.0453 17.8847 10.5844 17.21 10.593H17.157C16.7988 10.6062 16.458 10.7512 16.2 11C15.0625 10.2265 13.7252 9.79927 12.35 9.77L13 6.65L15.138 7.1C15.1931 7.60706 15.621 7.99141 16.131 7.992C16.1674 7.99196 16.2038 7.98995 16.24 7.986C16.7702 7.93278 17.1655 7.47314 17.1389 6.94094C17.1122 6.40873 16.6729 5.991 16.14 5.991C16.1022 5.99191 16.0645 5.99491 16.027 6C15.71 6.03367 15.4281 6.21641 15.268 6.492L12.82 6C12.7983 5.99535 12.7762 5.993 12.754 5.993C12.6094 5.99472 12.4851 6.09583 12.454 6.237L11.706 9.71C10.3138 9.7297 8.95795 10.157 7.806 10.939C7.53601 10.6839 7.17843 10.5422 6.807 10.543ZM12.18 16.524C12.124 16.524 12.067 16.524 12.011 16.524C11.955 16.524 11.898 16.524 11.842 16.524C11.0121 16.5208 10.2054 16.2497 9.542 15.751C9.49626 15.6958 9.47445 15.6246 9.4814 15.5533C9.48834 15.482 9.52348 15.4163 9.579 15.371C9.62737 15.3318 9.68771 15.3102 9.75 15.31C9.81233 15.31 9.87275 15.3315 9.921 15.371C10.4816 15.7818 11.159 16.0022 11.854 16C11.9027 16 11.9513 16 12 16C12.059 16 12.119 16 12.178 16C12.864 16.0011 13.5329 15.7863 14.09 15.386C14.1427 15.3322 14.2147 15.302 14.29 15.302C14.3653 15.302 14.4373 15.3322 14.49 15.386C14.5985 15.4981 14.5962 15.6767 14.485 15.786V15.746C13.8213 16.2481 13.0123 16.5208 12.18 16.523V16.524ZM14.307 14.08H14.291L14.299 14.041C13.8591 14.011 13.4994 13.6789 13.4343 13.2429C13.3691 12.8068 13.6162 12.3842 14.028 12.2269C14.4399 12.0697 14.9058 12.2202 15.1478 12.5887C15.3899 12.9572 15.3429 13.4445 15.035 13.76C14.856 13.9554 14.6059 14.0707 14.341 14.08H14.306H14.307ZM9.67 14C9.11772 14 8.67 13.5523 8.67 13C8.67 12.4477 9.11772 12 9.67 12C10.2223 12 10.67 12.4477 10.67 13C10.67 13.5523 10.2223 14 9.67 14Z"
+                  ></path>
+                </svg>
+              </a>
+
+              <a
+                href="#"
+                class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white"
+                aria-label="Facebook"
+              >
+                <svg
+                  class="w-6 h-6 fill-current"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M2.00195 12.002C2.00312 16.9214 5.58036 21.1101 10.439 21.881V14.892H7.90195V12.002H10.442V9.80204C10.3284 8.75958 10.6845 7.72064 11.4136 6.96698C12.1427 6.21332 13.1693 5.82306 14.215 5.90204C14.9655 5.91417 15.7141 5.98101 16.455 6.10205V8.56104H15.191C14.7558 8.50405 14.3183 8.64777 14.0017 8.95171C13.6851 9.25566 13.5237 9.68693 13.563 10.124V12.002H16.334L15.891 14.893H13.563V21.881C18.8174 21.0506 22.502 16.2518 21.9475 10.9611C21.3929 5.67041 16.7932 1.73997 11.4808 2.01722C6.16831 2.29447 2.0028 6.68235 2.00195 12.002Z"
+                  ></path>
+                </svg>
+              </a>
+
+              <a
+                href="#"
+                class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white"
+                aria-label="Github"
+              >
+                <svg
+                  class="w-6 h-6 fill-current"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12.026 2C7.13295 1.99937 2.96183 5.54799 2.17842 10.3779C1.395 15.2079 4.23061 19.893 8.87302 21.439C9.37302 21.529 9.55202 21.222 9.55202 20.958C9.55202 20.721 9.54402 20.093 9.54102 19.258C6.76602 19.858 6.18002 17.92 6.18002 17.92C5.99733 17.317 5.60459 16.7993 5.07302 16.461C4.17302 15.842 5.14202 15.856 5.14202 15.856C5.78269 15.9438 6.34657 16.3235 6.66902 16.884C6.94195 17.3803 7.40177 17.747 7.94632 17.9026C8.49087 18.0583 9.07503 17.99 9.56902 17.713C9.61544 17.207 9.84055 16.7341 10.204 16.379C7.99002 16.128 5.66202 15.272 5.66202 11.449C5.64973 10.4602 6.01691 9.5043 6.68802 8.778C6.38437 7.91731 6.42013 6.97325 6.78802 6.138C6.78802 6.138 7.62502 5.869 9.53002 7.159C11.1639 6.71101 12.8882 6.71101 14.522 7.159C16.428 5.868 17.264 6.138 17.264 6.138C17.6336 6.97286 17.6694 7.91757 17.364 8.778C18.0376 9.50423 18.4045 10.4626 18.388 11.453C18.388 15.286 16.058 16.128 13.836 16.375C14.3153 16.8651 14.5612 17.5373 14.511 18.221C14.511 19.555 14.499 20.631 14.499 20.958C14.499 21.225 14.677 21.535 15.186 21.437C19.8265 19.8884 22.6591 15.203 21.874 10.3743C21.089 5.54565 16.9181 1.99888 12.026 2Z"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
   </div>
 </template>

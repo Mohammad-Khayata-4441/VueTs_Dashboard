@@ -1,5 +1,5 @@
 <template>
-  <div class="dashboard-layout-navbar tw-shadow">
+  <div class="dashboard-layout-navbar  shadow">
     <div class="content">
       <!-- User Info And Avatar -->
       <div class="left">

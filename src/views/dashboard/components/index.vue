@@ -1,19 +1,19 @@
 <template>
-  <div class="tw-grid tw-grid-cols-3 tw-space-x-3">
+  <div class=" grid  grid-cols-3  space-x-3">
     <div class="col">
-      <a-card title="Form Example" class="tw-shadow" :bordered="false">
+      <a-card title="Form Example" class=" shadow" :bordered="false">
         <a-date-picker v-model:value="value1" />
         <a-slider v-model:value="value2" range />
         {{ value2 }}
       </a-card>
     </div>
     <div class="col">
-      <a-card title="Form Example" class="tw-shadow" :bordered="false">
+      <a-card title="Form Example" class=" shadow" :bordered="false">
         <p>card content</p>
       </a-card>
     </div>
     <div class="col">
-      <a-card title="Form Example" class="tw-shadow" :bordered="false">
+      <a-card title="Form Example" class=" shadow" :bordered="false">
         <p>card content</p>
       </a-card>
     </div>

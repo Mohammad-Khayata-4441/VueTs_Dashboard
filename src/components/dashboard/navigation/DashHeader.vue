@@ -1,6 +1,6 @@
 <template>
   <div class="dashboard-header">
-    <h2 class="tw-text-xl tw-font-bold tw-text-gray-700">{{ $route.name }}</h2>
+    <h2 class=" text-xl  font-bold  text-gray-700">{{ $route.name }}</h2>
   </div>
 </template>
 

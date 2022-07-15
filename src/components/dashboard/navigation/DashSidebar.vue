@@ -1,5 +1,5 @@
 <template>
-  <div class="sidebar tw-shadow">
+  <div class="sidebar  shadow">
     <div class="sidebar-header">
       <AppInfo></AppInfo>
     </div>
@@ -66,8 +66,7 @@ const isMiniSized = ref(false);
   }
 }
 
-.sidebar-miniSized {
-}
+.sidebar-miniSized {}
 
 .dark-theme {
   .sidebar {
